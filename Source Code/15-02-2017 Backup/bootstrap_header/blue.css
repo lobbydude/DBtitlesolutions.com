@@ -1,0 +1,554 @@
+a {
+    color: #00aeed;
+}
+
+.accent-color {
+	color: #00aeed;
+}
+
+.accent-color-bg {
+	background-color: #00aeed;
+}
+
+.top-bar a:hover {
+	color: #00aeed;
+}
+
+.section-overlay {
+	background-color: #00aeed;
+}
+
+.top-bar.color-bar {
+	background-color: #00aeed;
+}
+
+.service-box .read-more {
+	color: #00aeed;
+}
+
+
+
+.navbar-default .navbar-nav > li:hover > a,
+.navbar-default .navbar-nav > li > a.active {
+	color: #00aeed;
+}
+
+.dropdown > li:hover > a, .sup-dropdown li:hover > a {
+	color: #00aeed;
+}
+
+.navbar-default .navbar-nav > li > a:after {
+	background-color: #00aeed;
+}
+
+.navbar-default .navbar-nav > li > a.active, .navbar-default .navbar-nav > li:hover > a {
+	border-color: #00aeed;
+}
+
+.dropdown  li a.active, .sup-dropdown li a.active {
+	color: #00aeed;
+}
+
+ul.breadcrumbs li a:hover {
+    color: #00aeed;
+}
+
+.full-width-recent-projects .portfolio-item:hover .portfolio-thumb .thumb-overlay {
+	background-color: #00aeed;
+}
+
+.tp-caption.color-bg {
+	background-color: #00aeed;
+}
+
+.team-member .member-socail a.mail:hover i {
+	background-color: #00aeed;
+}
+
+.post-share a.mail:hover {
+	background-color: #00aeed;
+}
+
+.progress .progress-bar.progress-bar-primary {
+	background-color: #00aeed;
+}
+
+.latest-posts-classic .left-meta-post .post-type i {
+	background-color: #00aeed;
+}
+
+.latest-posts-classic .post-title a:hover {
+	color: #00aeed;
+}
+
+.latest-posts-classic .read-more {
+	color: #00aeed;
+}
+
+.panel-title a {
+	color: #00aeed;
+}
+
+.panel-title a:hover {
+	color: #00aeed;
+}
+
+.milestone-block .milestone-icon {
+	background-color: #00aeed;
+}
+
+.milestone-block .milestone-icon:after {
+	background-color: #00aeed;
+}
+
+.milestone-block .milestone-number {
+	color: #00aeed;
+}
+
+.pricing-tables .pricing-table.highlight-plan .plan-name h3 {
+	color: #00aeed;
+}
+
+.pricing-tables .pricing-table.highlight-plan .plan-signup {
+    background-color: #00aeed;
+}
+
+.pricing-tables .pricing-table.highlight-plan .plan-name {
+	background-color: #00aeed;
+}
+
+.btn-system {
+	background-color: #00aeed;
+}
+
+.btn-system.border-btn {
+	border-color: #00aeed;
+	color: #00aeed;
+}
+
+.btn-system.border-btn:hover {
+	background-color: #00aeed;
+}
+
+.btn-system.border-btn.btn-wite:hover {
+	color: #00aeed;
+}
+
+.btn-system.btn-wite{
+	color: #00aeed;
+}
+
+ul.icons-list li i {
+	color: #00aeed;
+}
+
+.nav-tabs > li > a:hover, .nav-tabs > li > a:focus {
+	background-color: #00aeed;
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover {
+	color: #00aeed;
+}
+
+.icon-small {
+	text-shadow: 0 0 0 #00aeed;
+}
+
+.icon-small:hover, .service-box:hover .icon-small {
+	color: #00aeed;
+}
+.icon-medium {
+	text-shadow: 0 0 0 #00aeed;
+}
+
+.icon-medium:hover, .service-box:hover .icon-medium {
+	color: #00aeed;
+}
+
+.icon-large {
+	text-shadow: 0 0 0 #00aeed;
+}
+
+.icon-large:hover, .service-box:hover .icon-large {
+	color: #00aeed;
+}
+
+.icon-effect-1 {
+	box-shadow: 0 0 0 3px #00aeed;
+	-o-box-shadow: 0 0 0 3px #00aeed;
+	-moz-box-shadow: 0 0 0 3px #00aeed;
+  	-webkit-box-shadow: 0 0 0 3px #00aeed;
+}
+
+.icon-effect-1:after {
+	background-color: #00aeed;
+}
+
+.icon-effect-1:hover, .service-box:hover .icon-effect-1 {
+	color: #00aeed;
+}
+
+.icon-effect-2 {
+	color: #00aeed;
+	box-shadow: 0 0 0 3px #00aeed;
+	-o-box-shadow: 0 0 0 3px #00aeed;
+	-moz-box-shadow: 0 0 0 3px #00aeed;
+  	-webkit-box-shadow: 0 0 0 3px #00aeed;
+}
+
+.icon-effect-2:after {
+	background-color: #00aeed;
+}
+
+.icon-effect-3 {
+	color: #00aeed;
+	box-shadow: 0 0 0 3px #00aeed;
+	-o-box-shadow: 0 0 0 3px #00aeed;
+	-moz-box-shadow: 0 0 0 3px #00aeed;
+  	-webkit-box-shadow: 0 0 0 3px #00aeed;
+}
+
+.icon-effect-4 {
+	color: #00aeed;
+	box-shadow: 0 0 0 3px #00aeed;
+	-o-box-shadow: 0 0 0 3px #00aeed;
+	-moz-box-shadow: 0 0 0 3px #00aeed;
+  	-webkit-box-shadow: 0 0 0 3px #00aeed;
+}
+
+.icon-effect-5 {
+	color: #00aeed;
+	box-shadow: 0 0 0 3px #00aeed;
+	-o-box-shadow: 0 0 0 3px #00aeed;
+	-moz-box-shadow: 0 0 0 3px #00aeed;
+  	-webkit-box-shadow: 0 0 0 3px #00aeed;
+}
+
+.icon-effect-6 {
+	color: #00aeed;
+	box-shadow: 0 0 0 3px #00aeed;
+	-o-box-shadow: 0 0 0 3px #00aeed;
+	-moz-box-shadow: 0 0 0 3px #00aeed;
+  	-webkit-box-shadow: 0 0 0 3px #00aeed;
+}
+
+.team-member .member-photo .member-name span {
+	background-color: #00aeed;
+}
+
+.classic-title span {
+	border-bottom-color: #00aeed;
+}
+
+.portfolio-filter li a:hover {
+	color: #00aeed;
+}
+
+.portfolio-filter li a.selected {
+	border-color: #00aeed;
+	background-color: #00aeed;
+}
+
+.portfolio-item:hover .portfolio-details h4 {
+	color: #00aeed;
+}
+
+.project-content h4 span {
+	border-bottom-color: #00aeed;
+}
+
+.recent-projects h4.title span {
+	border-bottom-color: #00aeed;
+}
+
+ul.post-meta li a:hover {
+	color: #00aeed;
+}
+
+#pagination span.current {
+	border-color: #00aeed;
+	background-color: #00aeed;
+}
+
+#pagination a:hover {
+	color: #00aeed;
+}
+
+.post-tags-list a:hover {
+	background-color: #00aeed;
+}
+
+.post-share a.mail {
+	background-color: #00aeed;
+}
+
+.sidebar a:hover {
+	color: #00aeed;
+}
+
+.widget-search .search-btn {
+	background-color: #00aeed;
+}
+
+.sidebar .tagcloud a:hover {
+    background-color: #00aeed;
+}
+
+
+
+.touch-slider .owl-controls.clickable .owl-buttons div:hover {
+	background-color: #00aeed;
+}
+
+.touch-carousel .owl-controls.clickable .owl-buttons div:hover {
+	background-color: #00aeed;
+}
+
+.testimonials-carousel .owl-controls.clickable .owl-buttons div {
+	background-color: #00aeed;
+}
+
+.testimonials-carousel .owl-controls.clickable .owl-buttons div:hover i {
+	color: #00aeed;
+}
+
+
+
+#portfolio-list li .portfolio-item-content {
+    background: rgba(0, 175, 209, 0.9);
+}
+
+.services-3-icon i {
+    background-color: #00aeed;
+}
+
+.services-2-icon i {
+    background-color: #00aeed;
+}
+
+#main-slide .animated2 strong {
+    color: #00aeed;
+}
+#main-slide .animated4 strong {
+    color: #00aeed;
+}
+#main-slide .animated7 strong {
+    color: #00aeed;
+}
+
+#main-slide .carousel-control i:hover{
+	background-color: #00aeed;
+}
+.slider.btn {
+    background-color: #00aeed;
+}
+
+#main-slide .carousel-indicators .active {
+    background-color: #00aeed;
+}
+
+
+.counter-item i {
+    color: #00aeed;
+}
+
+.timer {
+    color: #00aeed;
+}
+
+.progress-bar {
+    background-color: #00aeed;
+}
+
+.team-member.modern .member-photo:after {
+    background-color: #00aeed;
+}
+
+
+
+.twitter-widget a {
+	color: #00aeed;
+}
+
+.dot1, .dot2 {
+    background-color: #00aeed;
+}
+
+
+
+
+
+.text-color, 
+.social-links li i:hover, 
+#nav li ul li.current-menu-item a, 
+#nav li ul li:hover > a, 
+a:hover, 
+.post-body a:hover h3, 
+.blog-post.sticky .post-body a h3, 
+.footer-breadcrumbs li a.active, 
+.footer-breadcrumbs li a:hover, 
+.tabs li.active a, 
+.service-box-2-container .service-box-2 .title span, 
+.service-box-2-container .service-box-2 .title a:hover h1, 
+.service-box-2-container .service-box-2 .title a:hover h2, 
+.service-box-2-container .service-box-2 .title a:hover h3, 
+.service-box-2-container .service-box-2 .title a:hover h4, 
+.service-box-2-container .service-box-2 .title a:hover h5, 
+.service-box-2-container .service-box-2 .title a:hover h6, 
+.latest-blog-posts .title-date a:hover h6{
+    color: #002E5B !important;
+}
+
+.pricing-table-col.selected .head .price
+{
+    color: #31a1b0;
+}
+
+
+.read-more-btn:hover a, .aside_widgets .newsletter .submit:hover, .comment-reply-link
+{
+    background-color: #006666;
+}
+
+#nav > ul > li.current-menu-item, #nav > ul > li:hover, .pi_recent_posts .meta:hover, .blog-meta .category:hover, .read-more-btn:hover .plus, .widget_tag_cloud a:hover, .comment-reply-link:hover, .quicksand-filter-container #quicksand-filter li.active, .quicksand-filter-container #quicksand-filter li:hover, .portfolio-hover li:hover, .nivo-caption .subtitle, .team-info .title-position .position, span.dropcap-color, .latest-blog-posts .post-info .comments:hover, .latest-blog-posts .post-body .post-meta .category:hover, .footer-widget-container .newsletter .submit:hover, .pricing-table-col.selected .head .price
+{
+    background-color: #4e88cf !important;
+}
+
+#nav > ul > li.transparent:hover
+{
+    background-color: transparent !important;
+}
+
+
+.aside_widgets .newsletter .submit:hover{
+    border: 1px solid #4e88cf;
+}
+
+.portfolio:hover figcaption, 
+.testimonials-alternative-content{
+    border-top: 3px solid #4e88cf;
+}
+
+blockquote.style2{
+    border-left: 5px solid #4e88cf;
+}
+
+#nav > ul > li:hover, 
+#nav > ul > li.current-menu-item{
+    border-bottom: 2px solid #4e88cf;
+    height: 66px;
+    border-right: 1px solid #4e88cf;
+}
+
+.testimonials-alternative-nav li a:after{
+    border-bottom: 8px solid #4e88cf;
+}
+
+.wpcf7-submit, 
+.pager li.active, 
+.pager li:hover, 
+#respond #comment-reply, 
+.expand, 
+.btn-color, 
+.btn-medium.green, 
+.btn-big.green{
+    background: #c7e487; /* Old browsers */
+    background: -moz-linear-gradient(top,  #c7e487 0%, #b9d57c 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c7e487), color-stop(100%,#b9d57c)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #c7e487 0%,#b9d57c 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #c7e487 0%,#b9d57c 100%); /* Opera 11.10+ */
+    background: linear-gradient(to bottom,  #c7e487 0%,#b9d57c 100%); /* W3C */
+
+    border: 1px solid #a6c06c;
+}
+
+.wpcf7-submit:hover, 
+#respond #comment-reply:hover, 
+.btn-color:hover, 
+.btn-medium.green:hover, 
+.btn-big.green:hover{
+    background: #b9d57c; /* Old browsers */
+    background: -moz-linear-gradient(top,  #b9d57c 0%, #c7e487 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#b9d57c), color-stop(100%,#c7e487)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #b9d57c 0%,#c7e487 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #b9d57c 0%,#c7e487 100%); /* Opera 11.10+ */
+    background: linear-gradient(to bottom,  #b9d57c 0%,#c7e487 100%); /* W3C */
+}
+
+#search-box .search-submit:hover{
+    background: url('../img/green/search-hover.png') no-repeat center 3px;
+}
+
+.nivo-nextNav{
+    background-image:  url('../img/rsar.png'); 
+}
+
+.nivo-prevNav{
+    background-image: url('../img/rsal.png');
+}
+
+.nivo-nextNav:hover{
+    background-image: url('../img/green/rsar-active.png');
+}
+
+.nivo-prevNav:hover{
+    background-image: url('../img/green/rsal-active.png');
+}
+
+.accordion.faq .title.active a, 
+.accordion.faq .title:hover a{
+    background: url('../img/green/faq-opened.png') no-repeat 0 center;
+}
+
+.accordion .title.active a,
+.accordion .title:hover a{
+    background: url('../img/green/acc-opened.png') no-repeat 0 center;
+}
+
+.arrow-list li{
+    background: url('../img/green/arrow.png') no-repeat 0 center;
+}
+
+.carousel-nav li a.prev:hover{
+    background-image: url('../img/green/cl-active.png');
+}
+
+.carousel-nav li a.next:hover{
+    background-image: url('../img/green/cr-active.png');
+}
+
+.service-box-1 .icon{
+    background: url('../img/green/service-bkg.png') no-repeat 0 0;
+}
+
+.carousel-portfolio .carousel-pagination a.selected {
+    background: url('../img/green/sb-active.png') no-repeat;
+}
+
+.carousel-pagination a.selected {
+    background: url('../img/green/db-active.png') no-repeat;
+}
+
+.widget .contact-info li.address{
+    background: url('../img/green/contact-address.png') no-repeat 0 0;
+}
+
+.widget .contact-info li.phone{
+    background: url('../img/green/contact-phone.png') no-repeat 0 0;
+}
+
+.widget .contact-info li.mail{
+    background: url('../img/green/contact-mail.png') no-repeat 0 0;
+}
+
+.btn-color span, .btn-color:hover span, 
+#respond #comment-reply, 
+.wpcf7-submit{
+    color: #697a44;
+}
+
+.pricing-excluded{
+    background: url(../img/green/excluded.png) no-repeat center center;
+    min-height: 38px;
+}
